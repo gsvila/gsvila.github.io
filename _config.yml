@@ -23,7 +23,7 @@ title: Gabriela Vila
 description: >- # this means to ignore newlines until "baseurl:"
   My Machine Learning and Data Science portfolio.
 #baseurl: "" # the subpath of your site, e.g. /blog  
-baseurl: "gsvila.github.io" # the subpath of your site, e.g. /blog   # This is the appropriate vale to host on GitHub Pages
+#baseurl: "gsvila.github.io" # the subpath of your site, e.g. /blog   # This is the appropriate vale to host on GitHub Pages
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
